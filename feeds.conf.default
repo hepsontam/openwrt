@@ -1,4 +1,4 @@
-src-git luci https://github.com/openwrt/packages.git;openwrt-21.02
+src-git packages https://github.com/openwrt/packages.git;openwrt-21.02
 #src-git packages https://github.com/Lienol/openwrt-packages.git;21.02
 #src-git luci https://github.com/Lienol/openwrt-luci.git;21.02
 src-git luci https://github.com/openwrt/luci.git;openwrt-21.02
